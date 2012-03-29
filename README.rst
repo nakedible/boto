@@ -1,8 +1,8 @@
 ####
 boto
 ####
-boto 2.3.0
-18-Mar-2012
+
+Branch of Boto for fixes and new features, meant mainly as a pull source.
 
 ************
 Introduction
